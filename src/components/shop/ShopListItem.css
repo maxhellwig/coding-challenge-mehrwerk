@@ -1,0 +1,11 @@
+.box-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.box-head__icon {
+    align-self: start;
+}

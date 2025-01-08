@@ -1,0 +1,10 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+main {
+  width: 100%;
+  max-width: 90rem;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
